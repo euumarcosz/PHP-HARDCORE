@@ -1,5 +1,6 @@
 <?php
 
+echo "
 /**\
  * 
  * Executando PHP no Windows
@@ -13,3 +14,5 @@
  * 4- Lembrando que o servidor precisa estar ligado; 
  * 
  */
+";
+?>

@@ -1,5 +1,6 @@
 <?php
 
+echo "
 /**
  * 
  * Uma breve história
@@ -15,3 +16,5 @@
  * 5- Quase 80% dos sites hoje (2020) contém PHP;
  * 
  */
+";
+?>

@@ -1,5 +1,6 @@
 <?php
 
+echo "
 /**
  * 
  * Instalção PHP Windows 
@@ -11,3 +12,5 @@
  * 3- Com o XAMPP conseguimos simular um servidor web servidor web de modo fácil e também executar qualquer código PHP;
  * 
  */
+";
+?>

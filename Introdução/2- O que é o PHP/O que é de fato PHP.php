@@ -1,5 +1,6 @@
 <?php
-
+ 
+ echo "
 /**
  * 
  * O que é de fato PHP? 
@@ -14,8 +15,6 @@
  * 
  * 5- PHP significa: Personal Home Page (P) e Hypertext Preprocessor (HP).
  * 
- * 
- * 
- * 
- * 
  */
+";
+ ?>
