@@ -1,5 +1,6 @@
 <?php
 
+echo "
 /**
  * 
  * O que faz o PHP?
@@ -11,3 +12,5 @@
  * 2- Scripts de linha de comando: Rodar scripts para que açôes sejam executadas no computador ou remotamente, administração de sistema ou até mesmo CRONs; 
  * 
  */
+";
+?>
