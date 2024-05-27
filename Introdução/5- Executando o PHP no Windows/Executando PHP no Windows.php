@@ -1,7 +1,7 @@
 <?php
 
 echo "
-/**\
+/**
  * 
  * Executando PHP no Windows
  * 
