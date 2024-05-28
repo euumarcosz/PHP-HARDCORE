@@ -3,7 +3,7 @@
 echo "
 /**
  * 
- *  Infomativo sobre XAMPP e MySQL
+ * Infomativo sobre XAMPP e MySQL
  * 
  * Olá alunos, como vocês estão? 
  * 
