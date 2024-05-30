@@ -5,7 +5,7 @@ echo "
  * 
  * O que faz o PHP?
  * 
- * 0- O PHP pode ser dividido em duas vertentes:
+ * O PHP pode ser dividido em duas vertentes:
  * 
  * 1- Programação backend: Criação de sites dinâmicos, conexão e interação com banco de dados, geração de gráfico, documentos de XML e PDF; 
  * 
