@@ -1,6 +1,6 @@
 <?php
 
-echo "
+ echo "
 
  O que faz o PHP?
  
