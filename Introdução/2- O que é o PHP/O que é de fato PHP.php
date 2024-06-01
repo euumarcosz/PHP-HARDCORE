@@ -11,7 +11,7 @@
  * 
  * 3- O foco de PHP é o desenvolvimento web; 
  * 
- * 4- Os programas são executados em server side (lado do servidro, backend);
+ * 4- Os programas são executados em server side (lado do servidor, backend);
  * 
  * 5- PHP significa: Personal Home Page (P) e Hypertext Preprocessor (HP).
  * 
