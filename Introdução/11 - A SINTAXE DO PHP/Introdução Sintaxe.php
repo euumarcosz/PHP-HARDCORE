@@ -14,5 +14,5 @@
  
  5- Todo o codigo dentro destas tasg será executado pelo PHP, e após isso será impresso na tela;
  
-";
+ ";
 ?>
