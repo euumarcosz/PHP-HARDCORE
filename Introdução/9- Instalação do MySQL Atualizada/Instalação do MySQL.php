@@ -1,12 +1,10 @@
 <?php
 
-echo "
-/**
- * 
- *  Instalação do MySQL 
- * 
- *  Em construção...
- * 
- * /
+ echo "
+ 
+ Instalação do MySQL 
+ 
+ Em construção...
+
 ";
 ?>
