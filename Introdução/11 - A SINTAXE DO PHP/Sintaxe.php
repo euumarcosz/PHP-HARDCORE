@@ -1,5 +1,5 @@
 <?php
 
-echo "TESTANDO PHP";
+echo "TEST PHP";
 
 ?>
