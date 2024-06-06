@@ -6,7 +6,7 @@
 
  1- Uma linguagem de programação que foi desenvolvida para deixar o HTML dinâmico; 
 
- 2- Linguagem de script e open source; 
+ 2- Linguagem de script e Open source; 
 
  3- O foco de PHP é o desenvolvimento web; 
 
