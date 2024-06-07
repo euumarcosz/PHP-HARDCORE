@@ -12,7 +12,7 @@
  
  4- Coloque ; a cada instrução; 
  
- 5- Todo o codigo dentro destas tasg será executado pelo PHP, e após isso será impresso na tela;
+ 5- Todo o codigo dentro destas tags será executado pelo PHP, e após isso será impresso na tela;
  
  ";
 ?>
