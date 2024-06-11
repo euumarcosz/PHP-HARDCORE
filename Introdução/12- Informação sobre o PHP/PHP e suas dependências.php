@@ -4,7 +4,7 @@
 
  PHP e suas dependências
 
- 1- Podemos checar como o PHP e suas dependências estão instaladas no nosso computador;
+ 1- Podemos checar como o PHP e suas dependências estão instaladas em nosso computador;
 
  2- O nome da função é phpinfo()
 

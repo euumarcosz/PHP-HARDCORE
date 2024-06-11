@@ -12,7 +12,7 @@
 
  4- Os programas são executados em server side (lado do servidor, backend);
 
- 5- PHP significa: Personal Home Page (P) e Hypertext Preprocessor (HP).
+ 5- PHP significa; Personal Home Page (P) e Hypertext Preprocessor (HP).
 
  ";
  ?>
