@@ -1,6 +1,6 @@
 <?php
 
-//Nao é case sensitive
+//Não é case sensitive
 echo "the <br>";
 eChO "the 2 <br>";
 ECHO "the 3 <br>";
