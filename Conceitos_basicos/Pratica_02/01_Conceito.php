@@ -23,3 +23,5 @@ $nomedamae = "Martha Wayne";
  echo"Idade: " . $idade. "<br>";
  echo"Nome do pai: " . $nomedopai. "<br>";
  echo"Nome da mãe: " . $nomedamae. "<br>";
+
+ ?>
