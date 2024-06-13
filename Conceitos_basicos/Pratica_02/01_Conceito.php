@@ -1,34 +1,25 @@
 <?php
 
 //Nome 
- echo"Nome ". "Sobrenome: ";
 $nome = "Bruce";
 
 //Sobrenome
-$sobrenome = "Wayne";
-
-echo $nome. " ". $sobrenome . "<br>";
+$sobrenome = " Wayne";
 
 //Data de nascimento 
- echo"Data de nascimento: ";
 $dataNascimento = "1972-02-19";
 
-echo $dataNascimento. "<br>";
-
 //Idade
- echo"Idade: ";
 $idade = date("Y") - date("Y", strtotime($dataNascimento)); //Calculador de idade
 
-echo $idade. "<br>";
-
 //Nome do pai
- echo"Nome do pai: ";
 $nomedopai = "Thomas";
 
-echo $nomedopai. "<br>";
-
 //Nome da mãe
- echo"Nome da mãe: ";
 $nomedamae = "Martha Wayne";
 
- echo $nomedamae . "<br>";
+ echo"Nome " . "Sobrenome: " . $nome .$sobrenome. "<br>";
+ echo"Data de nascimento: " . $dataNascimento. "<br>";
+ echo"Idade: " . $idade. "<br>";
+ echo"Nome do pai: " . $nomedopai. "<br>";
+ echo"Nome da mãe: " . $nomedamae. "<br>";
