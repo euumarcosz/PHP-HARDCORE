@@ -12,7 +12,7 @@ for ($i = 0; $i <= 10; $i++) { //Loop - elemento tabelas
         }
             }
             
-        for ($num = 0; $num <= 10; $num ++){ //Loop para determinar o segundo elemento e realizar a multiplicação
+        for ($num = 0; $num <= 10; $num ++){ //Loop - elemento para realizar a multiplicação 1 * 10 // 9999 
             
         $calc = $i * $num;
         echo "$i X $num = $calc\n <br>";
