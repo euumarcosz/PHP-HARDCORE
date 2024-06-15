@@ -10,7 +10,7 @@ $sobrenome = " Wayne";
 $dataNascimento = "1972-02-19";
 
 //Idade
-$idade = date("Y") - date("Y", strtotime($dataNascimento)); //Calculador de idade
+$idade = date("Y") - date("Y", strtotime($dataNascimento)); //Calcular idade
 
 //Nome do pai
 $nomedopai = "Thomas";
