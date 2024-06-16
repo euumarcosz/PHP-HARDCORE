@@ -1,6 +1,6 @@
 <?php
 // Primeira maneira de checar números inteiros
-// Numeros inteiros 
+// Números inteiros 
 
  echo"NÚMEROS INTEIROS <br/";
 
@@ -11,7 +11,7 @@ if(is_int(10)) { // True = número inteiro
 
 // Segunda maneira de checar números não inteiros
 // Número não inteiros
-if(is_int("Não é um inteiro")) { // False = não é um numero inteiro
+if(is_int("Não é um inteiro")) { // False = não é um número inteiro
     echo "Nao inteiro <br>";
 }
 
@@ -42,8 +42,8 @@ echo "<br>";
 echo "Números inteiros: $a, $b, $c, $d <br>";
 echo "<br>";
 
-// Segunda maneira de checar numeros não inteiros
-// Numeros não inteiros
+// Segunda maneira de checar números não inteiros
+// Números não inteiros
  echo "NÚMETOS NÃO INTEIROS <br>";
  echo "<br>";
 
