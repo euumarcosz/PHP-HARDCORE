@@ -60,7 +60,7 @@ if(is_int($f)) echo"Não é inteiro"; { // False = não é um número inteiro
     echo"Não é inteiro: F) $f <br>";
 }
 
-if(is_int($g)) echo"Não é inteiro";  { // False = não é um número inteiro
+if(is_int($g)) echo"Não é inteiro"; { // False = não é um número inteiro
     echo"Não é inteiro: G) $g <br>";
 }
 
