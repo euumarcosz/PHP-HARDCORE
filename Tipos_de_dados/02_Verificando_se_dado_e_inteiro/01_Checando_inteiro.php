@@ -2,10 +2,10 @@
 // Primeira maneira de checar números inteiros
 // Números inteiros 
 
- echo"NÚMEROS INTEIROS <br/";
+ echo "NÚMEROS INTEIROS <br/";
 
 if(is_int(10)) { // True = número inteiro
-    echo"É um inteiro teste <br>";
+    echo "É um inteiro teste <br>";
     echo "<br>";
 }
 
@@ -23,19 +23,19 @@ $c = 30;
 $d = 40;
 
 if(is_int($a)) { // True = Número inteiro
-    echo"É um inteiro: A)  $a <br>";
+    echo "É um inteiro: A)  $a <br>";
 }
 
 if(is_int($b)) { // True = Número inteiro
-    echo"É um inteiro: B)  $b <br>";
+    echo "É um inteiro: B)  $b <br>";
 }
 
 if(is_int($c)) { // True = Número inteiro
-    echo"É um inteiro: C) $c <br>";
+    echo "É um inteiro: C) $c <br>";
 }
 
 if(is_int($d)) { // True = Número inteiro
-    echo"É um inteiro: D)  $d <br>";
+    echo "É um inteiro: D)  $d <br>";
 }
 
 echo "<br>";
@@ -53,19 +53,19 @@ $g = 70.07;
 $h = 80.08;
 
 if(is_int($e)) echo"Não é inteiro"; { // False = não é um número inteiro
-    echo"Não é inteiro: E) $e <br>";
+    echo "Não é inteiro: E) $e <br>";
 }
 
 if(is_int($f)) echo"Não é inteiro"; { // False = não é um número inteiro
-    echo"Não é inteiro: F) $f <br>";
+    echo "Não é inteiro: F) $f <br>";
 }
 
 if(is_int($g)) echo"Não é inteiro"; { // False = não é um número inteiro
-    echo"Não é inteiro: G) $g <br>";
+    echo "Não é inteiro: G) $g <br>";
 }
 
 if(is_int($h)) echo"Não é inteiro"; { // False = não é um número inteiro
-    echo"Não é inteiro: H) $h <br>";
+    echo "Não é inteiro: H) $h <br>";
 }
 
 echo "<br>";
