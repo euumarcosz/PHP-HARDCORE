@@ -20,5 +20,5 @@ for ($i = 0; $i <= 10; $i++) { //Loop - elemento tabelas
 }
 
 // Com o contador "(i)" = para determinar uma sequência de números 
-// EX: ($i = 0; $i <= 10; $i ++)
+// Ex na linha 3: ($i = 0; $i <= 10; $i ++)
 // Resposta: "i" para determinar a primeira sequência de números, "1 X ..." , "2 X ..", e assim por diante, depois uma variável "contador" que vai contar em qual número da variável "i'
