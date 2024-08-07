@@ -8,13 +8,13 @@ echo 5000;
 echo "<br>";
 echo "<br>";
 
-echo"Exemplos: ";
+echo "Exemplos: ";
 echo "<br>";
 echo "<br>";
 
-echo"Numeros inteiros: 5, 50, 5000";
+echo "Numeros inteiros: 5, 50, 5000";
 echo "<br>";
 echo "<br>";
-echo"Usando quebra de linhas < br >"; // <br> 
+echo "Usando quebra de linhas <br>"; // <br> 
 
 ?>

@@ -4,7 +4,7 @@
 
  Inteiro integers
  
- 1- Os inteiros são os números inteiros da matemática, como 1, 2, 3 15;
+ 1- Os inteiros são os números inteiros da matemática, como 1, 2, 3, 15;
  
  2- Incluindo os números negativos;
 
