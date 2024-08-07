@@ -44,7 +44,7 @@ echo "<br>";
 
 // Segunda maneira de checar números não inteiros
 // Números não inteiros
- echo "NÚMETOS NÃO INTEIROS <br>";
+ echo "NÚMEROS NÃO INTEIROS <br>";
  echo "<br>";
 
 $e = 50.05;
