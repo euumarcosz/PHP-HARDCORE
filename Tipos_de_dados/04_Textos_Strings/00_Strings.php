@@ -6,7 +6,7 @@
  
  1- Os textos são conhecidos como [ strings ];
  
- 2- 
+ 2- Em PHP podemos escrever textos em [ aspas simples ou duplas ], não há diferença para texto puro;
 
  3- 
 
