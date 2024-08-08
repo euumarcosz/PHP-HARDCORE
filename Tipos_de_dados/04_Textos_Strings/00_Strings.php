@@ -4,7 +4,7 @@
 
  Textos (strings)
  
- 1- 
+ 1- Os textos são conhecidos como [ strings ];
  
  2- 
 
