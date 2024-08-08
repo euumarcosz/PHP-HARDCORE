@@ -9,3 +9,5 @@ echo "Testando texto de aspas duplas <br>";
             echo 'Ele dosse: "Olá!" <br>';
 
 $idade = 25;
+
+echo "Ele tem $idade anos <br>";
