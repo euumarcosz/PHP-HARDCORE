@@ -9,7 +9,8 @@
  2- A função recebe um [ valor como parâmetro ];
 
  3- Novamente, receberemos [ true ou false ], dependendo do dado enviado;
- 
+
  4- Precisamos utilizar uma estrutura [ if ] para validar o valor;
+ 
 ";
 ?>
