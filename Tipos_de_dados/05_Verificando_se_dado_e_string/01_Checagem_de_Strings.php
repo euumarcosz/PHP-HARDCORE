@@ -1,16 +1,19 @@
 <?php
-
+// Checando uma string
 $str = "Batman";
 $num = 25;
 
-if(is_string($str)) {
+// Verificando e exibindo se $str é uma string 
+if (is_string($str)) {
     echo "$str é uma string 1<br>";
 }
 
-if(is_string($num)) {
+// Verificando e exibindo se $num é uma string
+if (is_string($num)) {
     echo "$num é uma string 2<br>";
 }
 
-if(is_string($str)) {
+// vericando novamente se $str é uma string
+if (is_sstring($str)) {
     echo "É uma string 3<br>";
 }
