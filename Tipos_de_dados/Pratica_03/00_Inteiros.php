@@ -16,6 +16,3 @@ echo "Numeros inteiros: 5, 50, 5000";
 echo "<br>";
 echo "<br>";
 echo "Usando quebra de linhas <br>"; // <br> 
-
-?>
-
