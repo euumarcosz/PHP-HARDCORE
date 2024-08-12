@@ -20,4 +20,4 @@ echo "<br>";
 
 if(is_float($valorFloat)) {
     echo "É um inteiro";
-} 
+}
