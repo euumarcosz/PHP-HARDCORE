@@ -6,7 +6,7 @@ echo 'Testando aspas simples <br>';
 echo "Testando aspas duplas <br>"; 
 
 // Inicializando variáveis 
-$nome = "Batman";  // Nome de uma pessoa
+$nome = "Batman";  // Nome de uma pessoa 
 $idade = 25;       // Idade da pessoa
 
 // Usando aspas duplas para permitir a interpolação de variáveis
