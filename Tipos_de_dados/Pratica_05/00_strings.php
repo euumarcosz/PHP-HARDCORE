@@ -3,7 +3,7 @@
 echo 'Testando aspas simples <br>'; 
 
 // Exibindo texto com aspas duplas 
-echo "Testando aspas duplas <br>";
+echo "Testando aspas duplas <br>"; 
 
 // Inicializando variáveis
 $nome = "Batman";  // Nome de uma pessoa
