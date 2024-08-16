@@ -1,5 +1,5 @@
 <?php
-// Exibindo texto com aspas simples
+// Exibindo texto com aspas simples 
 echo 'Testando aspas simples <br>';
 
 // Exibindo texto com aspas duplas
