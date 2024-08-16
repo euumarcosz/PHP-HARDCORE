@@ -5,7 +5,7 @@ echo 'Testando aspas simples <br>';
 // Exibindo texto com aspas duplas 
 echo "Testando aspas duplas <br>"; 
 
-// Inicializando variáveis
+// Inicializando variáveis 
 $nome = "Batman";  // Nome de uma pessoa
 $idade = 25;       // Idade da pessoa
 
