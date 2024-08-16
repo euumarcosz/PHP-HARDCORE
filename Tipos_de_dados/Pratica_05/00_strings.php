@@ -2,7 +2,7 @@
 // Exibindo texto com aspas simples 
 echo 'Testando aspas simples <br>'; 
 
-// Exibindo texto com aspas duplas
+// Exibindo texto com aspas duplas 
 echo "Testando aspas duplas <br>";
 
 // Inicializando variáveis
