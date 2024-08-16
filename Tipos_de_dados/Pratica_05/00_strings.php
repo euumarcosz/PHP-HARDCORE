@@ -1,6 +1,6 @@
 <?php
 // Exibindo texto com aspas simples 
-echo 'Testando aspas simples <br>';
+echo 'Testando aspas simples <br>'; 
 
 // Exibindo texto com aspas duplas
 echo "Testando aspas duplas <br>";
