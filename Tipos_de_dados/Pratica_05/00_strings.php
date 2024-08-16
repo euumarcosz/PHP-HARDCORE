@@ -10,4 +10,4 @@ $nome = "Batman";  // Nome de uma pessoa
 $idade = 25;       // Idade da pessoa 
 
 // Usando aspas duplas para permitir a interpolação de variáveis 
-echo "Olá, eu sou o $nome! Você tem $idade anos. <br>";
+echo "Olá, eu sou o $nome! Você tem $idade anos. <br>"; 
